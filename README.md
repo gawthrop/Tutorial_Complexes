@@ -11,4 +11,4 @@ This repository contains
 # Tutorials
 The following links displays the notebook using nbviewer. The
 notebook may be run using the binder link in the nbviewer menu.
-- [Complexes](https://nbviewer.jupyter.org/github/gawthrop/Tutorial_Complexes/blob/main/Complexes.ipynb): The Complexesiometric analysis module
+- [Complexes](https://nbviewer.jupyter.org/github/gawthrop/Tutorial_Complexes/blob/main/Complexes.ipynb): illustrate the notion of *complexes*.
